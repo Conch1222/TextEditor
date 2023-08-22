@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Icon">
+        <file>Icon/OpenFile.png</file>
+        <file>Icon/SaveFile.png</file>
+        <file>Icon/Clear.png</file>
+        <file>Icon/Bold.png</file>
+        <file>Icon/Italic.png</file>
+        <file>Icon/UnderLine.png</file>
+        <file>Icon/TextEditor.png</file>
+        <file>Icon/TextColor.png</file>
+        <file>Icon/BgColor.png</file>
+    </qresource>
+</RCC>
